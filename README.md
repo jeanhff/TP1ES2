@@ -53,6 +53,7 @@ desenvolvedores com seus respectivos commits:
 -
 ●●Alexis Metaireau (almet), com 285 commits
  ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image9.png)
+
 -
 ●●Justin Mayer (justinmayer) com 196 commits
  ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image7.png)
@@ -267,9 +268,13 @@ HTML, Markdown e reStructured text. À partir de um arquivo, o readers retornam
 dados e conteúdo, sendo conteúdo em formato HTML. A sintaxe também deve ser
 levada em consideração, se o arquivo seja no formato reStructured text,
 Markdown ou HTML, deve-se inserir os dados com a seguinte sintaxe:
+
  ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image8.png)
+
  ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image10.png)
+
  ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image4.png)
+
 A primeira imagem refere-se a sintaxe do reStructured Text, a segunda Markdown
 e a terceira HTML.
 Todas as três imagens podem ser encontradas na página:
