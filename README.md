@@ -50,12 +50,10 @@ A imagem abaixo demonstra os commits ao longo dos anos por usuário, desde
 agosto de 2010 até os dias atuais, maio de 2017. Vemos os dois principais
 desenvolvedores com seus respectivos commits:
 
--
-●●Alexis Metaireau (almet), com 285 commits
+- Alexis Metaireau (almet), com 285 commits
  ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image9.png)
 
--
-●●Justin Mayer (justinmayer) com 196 commits
+- Justin Mayer (justinmayer) com 196 commits
  ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image7.png)
 
 Fonte:
@@ -285,35 +283,63 @@ interpretação de um arquivo.
 
 **REFERÊNCIAS**
 
-- Disponível em
-  [http://docs.getpelican.com/en/stable/](http://docs.getpelican.com/en/stable/).
-Acesso em 08/05/17.
-- GitHub, Pelican. Disponível em
-  [https://github.com/getpelican/pelican/](https://github.com/getpelican/pelican/).
-Acesso em 08/05/17.
-- Disponível em
-  [https://www.w3schools.com/html/](https://www.w3schools.com/html/). Acesso em
-08/05/17.
-- Diponível em [adobe.com/br/](http://www.adobe.com/br/). Acesso em 08/05/17.
-- Disponível em
-  [https://www.microsoft.com/pt-br/windows/](https://www.microsoft.com/pt-br/windows/).
-Acesso em 08/05/17.
-- Google Analytics. Disponível em
-  [https://analytics.google.com/](https://analytics.google.com/). Acesso em
-08/05/17.
-- Wikipédia, Markdown. Disponível em
-  [https://pt.wikipedia.org/wiki/Markdown](https://pt.wikipedia.org/wiki/Markdown).
-Acesso em 08/05/17.
-- Disponível em [http://pytz.sourceforge.net/](http://pytz.sourceforge.net/).
-  Acesso em 08/05/17.
-- Disponível [https://www.python.org/](https://www.python.org/). Acesso em
-  08/05/17.
-- Disponível em [https://www.tumblr.com/](https://www.tumblr.com/). Acesso em
-  08/05/17.
-- Mac OS. Disponível em
-  [https://www.apple.com/macos/sierra/](https://www.apple.com/macos/sierra/).
-Acesso em 08/05/17.
-- Disponível em
-  [https://en.wikipedia.org/wiki/HTTPS](https://en.wikipedia.org/wiki/HTTPS).
-Acesso em 08/05/17.
-- Disponível em [http://br-linux.org](http://br-linux.org). Acesso em 08/05/17.
+> REFERÊNCIAS
+>
+> > Pelican. Disponível em <http://docs.getpelican.com/en/stable/>. Acesso em
+> > 08/05/17.
+> >
+> > GitHub, Pelican. Disponível em <https://github.com/getpelican/pelican/>.
+> > Acesso em 08/05/17.
+> >
+> > HTML. Disponível em <https://www.w3schools.com/html/>. Acesso em 08/05/17.
+> >
+> > PDF. Diponível em www.adobe.com/br/. Acesso em 08/05/17.
+> >
+> > Windows. Disponível em <https://www.microsoft.com/pt-br/windows/>. Acesso
+> > em 08/05/17.
+> >
+> > Google Analytics. Disponível em <https://analytics.google.com/>. Acesso em
+> > 08/05/17.
+> >
+> > Wikipédia, Markdown. Disponível em
+> > <https://pt.wikipedia.org/wiki/Markdown>. Acesso em 08/05/17.
+> >
+> > Pytz. Disponível em <http://pytz.sourceforge.net/>. Acesso em 08/05/17.
+> >
+> > Python. Disponível em <https://www.python.org/>. Acesso em 08/05/17.
+> >
+> > Python, CLI. Disponível em <https://pythonhosted.org/pyCLI/>. Acesso em
+> > 08/05/17.
+> >
+> > Python, Wheel. Disponível em <http://pythonwheels.com/>. Acesso em
+> > 08/05/17.
+> >
+> > Python, Mock. Disponível em <https://pypi.python.org/pypi/mock>. Acesso em
+> > 08/05/17.
+> >
+> > Jinja2. Disponível em <http://jinja.pocoo.org/>. Acesso em 08/05/17.
+> >
+> > WordPress. Disponível em <https://br.wordpress.org/>. Acesso em 08/05/17.
+> >
+> > DotClear. Disponível em <https://dotclear.org/>. Acesso em 08/05/17.
+> >
+> > RSS. Disponível em <https://pt.wikipedia.org/wiki/RSS>. Acesso em 08/05/17.
+> >
+> > Twitter. Disponível em <https://twitter.com/>. Acesso em 08/05/17.
+> >
+> > Tumblr. Disponível em <https://www.tumblr.com/>. Acesso em 08/05/17.
+> >
+> > Mac OS. Disponível em <https://www.apple.com/macos/sierra/>. Acesso em
+> > 08/05/17.
+> >
+> > HTTPS. Disponível em <https://en.wikipedia.org/wiki/HTTPS>. Acesso em
+> > 08/05/17.
+> >
+> > Linux. Disponível em <http://br-linux.org>. Acesso em 08/05/17.
+> >
+> > CSS. Disponível em <https://www.w3schools.com/css/>. Acesso em 08/05/17.
+> >
+> > TOX. Disponível em <https://www.tox-us.com/>. Acesso em 08/05/17.
+> >
+> > Flake8. Disponível em <http://flake8.pycqa.org/>. Acesso em 08/05/17.
+
