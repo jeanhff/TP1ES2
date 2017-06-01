@@ -9,7 +9,7 @@ escolha nos formatos reStructuredText ou Markdown. O Pelican possui uma
 ferramenta simples chamada de CLI que (re)gera o seu site, além disso, facilita
 a interação com sistemas distribuídos de controle de versão e web hooks.
 
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image13.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image13.png)
 
 Fonte:
 [http://docs.getpelican.com/en/stable/report.html](http://docs.getpelican.com/en/stable/report.html)
@@ -52,10 +52,10 @@ desenvolvedores com seus respectivos commits:
 
 -
 ●●Alexis Metaireau (almet), com 285 commits
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image9.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image9.png)
 -
 ●●Justin Mayer (justinmayer) com 196 commits
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image7.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image7.png)
 
 Fonte:
 [https://github.com/getpelican/pelican/graphs/contributors](https://github.com/getpelican/pelican/graphs/contributors)
@@ -104,7 +104,7 @@ imagem abaixo de acordo com as tags de classificação das issues:
 
 
 
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image11.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image11.png)
 
 Neste contexto apresentamos algumas milestones importantes para o projeto.
 Temos até o momento, dia 18/05, 11 milestones fechadas, segue em ordem
@@ -161,7 +161,7 @@ Desde agosto de 2010 até o momento foram feitos 2790 commits para atender
 diversas necessidades do projeto, para melhor visualização veja a imagem abaixo
 com o número de commits ao longo do tempo:
 
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image2.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image2.png)
 
 Fonte:
 [https://github.com/getpelican/pelican](https://github.com/getpelican/pelican)
@@ -179,7 +179,7 @@ padronização e qualidade de código. Veja em
 
 **FRAMEWORKS, FERRAMENTAS E LINGUAGENS**
 
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image12.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image12.png)
 
 **Python**
 
@@ -205,7 +205,7 @@ para garantir que o código funcione em diferentes versões da linguagem e que
 todas suas dependências são compatíveis e estão presentes, como pode ser visto
 no trecho abaixo, extraído do arquivo tox.ini encontrado na raiz do Pelican.
 
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image5.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image5.png)
 
 **Bumpr**
 
@@ -214,7 +214,7 @@ releases.
 
 O Arquivo de configuração do bumpr do pelican pode ser visto na figura abaixo.
 
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image3.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image3.png)
 
 **Wheel**
 
@@ -259,7 +259,7 @@ typing, sua ampla utilização em Python, tendo classes semelhantes à arquivo.
 Possui tratamento de paginação, deixando os arquivos bem organizados de acordo
 com a entrada. A imagem abaixo ilustra a parte do código de paginação.
 
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image6.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image6.png)
 
 -
 ●● **Readers** : São utilizados para ler de vários formatos de entrada como
@@ -267,9 +267,9 @@ HTML, Markdown e reStructured text. À partir de um arquivo, o readers retornam
 dados e conteúdo, sendo conteúdo em formato HTML. A sintaxe também deve ser
 levada em consideração, se o arquivo seja no formato reStructured text,
 Markdown ou HTML, deve-se inserir os dados com a seguinte sintaxe:
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image8.jpg)
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image10.jpg)
- ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image4.jpg)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image8.png)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image10.png)
+ ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image4.png)
 A primeira imagem refere-se a sintaxe do reStructured Text, a segunda Markdown
 e a terceira HTML.
 Todas as três imagens podem ser encontradas na página:
