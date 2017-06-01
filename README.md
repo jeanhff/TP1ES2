@@ -260,8 +260,8 @@ com a entrada. A imagem abaixo ilustra a parte do código de paginação.
 
  ![](https://github.com/jeanhff/TP1ES2/blob/master/images/image6.png)
 
--
-●● **Readers** : São utilizados para ler de vários formatos de entrada como
+
+**Readers** : São utilizados para ler de vários formatos de entrada como
 HTML, Markdown e reStructured text. À partir de um arquivo, o readers retornam
 dados e conteúdo, sendo conteúdo em formato HTML. A sintaxe também deve ser
 levada em consideração, se o arquivo seja no formato reStructured text,
